@@ -1,1 +1,19 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+.myClass {
+      background-color: gray;
+      color: blue
+}
+.anExampleClass {
+      font-size: 300%;
+      background-color: orange;
+      font-family: courier;
+      border: 1px dotted black;
+      text-transform: upcase;
+      letter-spacing: 7px;
+      transition: rotate(-30)deg;
+    }
